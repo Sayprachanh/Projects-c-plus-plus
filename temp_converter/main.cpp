@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-	// There is still some bug, for example if we input string rather than number, the program will enter the loop
+	// There is still some bugs, for example if we input string rather than number, the program will enter the loop
 	// I will deal with it later in the future
 
 
